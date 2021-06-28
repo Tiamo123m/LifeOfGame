@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/gui/GUI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/map/Map.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/logic/LogicTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/map/MapTest.java" charset="GBK" />
+  </component>
+</project>
